@@ -25,4 +25,5 @@ ro.vendor.radio.max.multisim=ss
 ro.telephony.sim.count=1
 telephony.active_modems.max_count=1
 persist.vendor.mims_support=1
-ro.vendor.se.type=eSE,HCE,UICC
+ro.miui.build.region=jp
+ro.vendor.se.type=eSE,HCE,UICC,UICC1,UICC2
