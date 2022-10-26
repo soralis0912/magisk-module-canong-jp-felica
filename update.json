@@ -2,5 +2,5 @@
     "version": "v06",
     "versionCode": 6,
     "zipUrl": "https://github.com/soralis0912/magisk-module-canong-jp-felica/releases/latest/download/magisk-module-canong-jp-felica.zip",
-    "changelog": "https://github.com/soralis0912/magisk-module-canong-jp-felica/releases/latest"
+    "changelog": "https://raw.githubusercontent.com/soralis0912/magisk-module-canong-jp-felica/master/changelog.md"
 }
